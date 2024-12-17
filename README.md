@@ -14,10 +14,10 @@ drone paths whilst avoiding buildings/ no-fly-zones.
 
 ## Features
 
-- **Route Optimization:** The project uses dynamic programming memoization to optimize the delivery point visit order
+- **Route Optimisation:** The project uses dynamic programming memoization to optimise the delivery point visit order
   for efficient drone routes.
 
-- **Pathfinding:** An A* algorithm is used to determine the paths between delivery points based on the optimized order.
+- **Pathfinding:** An A* algorithm is used to determine the paths between delivery points based on the optimised order.
 
 - **User-Defined Data:** Users can provide their own building and delivery point data in GeoJSON and JSON formats,
   respectively.
